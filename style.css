@@ -115,7 +115,7 @@ main{
 .bg-img{
     position: absolute;
     width: 2800px;
-    top: calc(50% - 390px);
+    top: calc(50% - 290px);
     left: calc(50% + 10px);
     z-index: 1;
 }
@@ -131,7 +131,7 @@ main{
 .mountain-10{
     position: absolute;
     z-index: 3;
-    width: 870px;
+    width: 850px;
     top: calc(50% + 69px);
     left: calc(50% + 230px);
     }
